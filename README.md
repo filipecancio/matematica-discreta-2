@@ -3,7 +3,7 @@ Estudos e exercícios de Matemática Discreta 2
 
 [![badge](https://img.shields.io/badge/MD2-Playlist-red)](https://www.youtube.com/playlist?list=PL8aWdrmfXHiL57IFpt_7Nfee70VAjRyq9)
 [![badge](https://img.shields.io/badge/MD2-Site-blue)](https://allanarquivos.wordpress.com/2018/04/20/matematica-discreta-ii-2018-1/)
-[![badge](https://img.shields.io/badge/MD2-Apostila-yellow)](https://drive.google.com/file/d/1AQMT-PONOXYLiymP9xzfdeRrnJhrt5fN/view)
+[![badge](https://img.shields.io/badge/MD2-Apostila-yellow)](https://allanarquivos.files.wordpress.com/2018/04/apostila-de-matematica-discreta-ii-1.pdf)
 
 ### Objetivos 
 Propiciar ao aluno condições de:
